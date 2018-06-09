@@ -8,8 +8,8 @@ GARAZ, MUZYKE, NASTROJ, OTWORZ, PODNIES, ROLETY, SWIATLO, TELEWIZOR, WLACZ, WYLA
 
 
 First install librosa and dtw available on PyPI by typing: <br />
-  pip install librosa <br />
-  pip install dtw  <br />
+ \t pip install librosa <br />
+ \t pip install dtw  <br />
   
 Sources:
 https://www.researchgate.net/publication/260762671_Speech_recognition_using_MFCC_and_DTW
